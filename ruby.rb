@@ -2,7 +2,7 @@
 
 #### 1. Use two different Ruby loops to loop over this array, multiplying each element by 2.
 
-tempArray = [1, 2, 6, 9, 3, 21]
+tempArray = [1, 2, 6, 9, 3, 21] 
 
 # your ruby loop here
 
